@@ -1,10 +1,10 @@
 # LEAN JA
 
-lean-jaは, Leanに関する情報の交換と集積を目的とした日本語コミュニティです．
+lean-jaは，Leanに関する情報の交換と集積を目的とした日本語コミュニティです．
 
-lean は純粋関数型言語であり、数学の証明を表現する能力を備えた定理証明支援系でもあります．
+Leanは純粋関数型言語であり，数学の証明を表現する能力を備えた定理証明支援系でもあります．
 
-[discussion](https://github.com/orgs/lean-ja/discussions) でLeanに関する情報を日本語でやり取りすることができます．
+[discussion](https://github.com/orgs/lean-ja/discussions)でLeanに関する情報を日本語でやり取りすることができます．
 質問やアイデア共有などにぜひお使いください．
 
 また，Leanの学習リソースの翻訳を順次ホスト・公開する予定です．
