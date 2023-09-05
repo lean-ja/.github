@@ -13,3 +13,5 @@ lean は純粋関数型言語であり、数学の証明を表現する能力を
 * [Theorem Proving in Lean4 日本語訳](https://aconite-ac.github.io/theorem_proving_in_lean4_ja/) Leanのチュートリアルドキュメント「Theorem Proving in Lean 4」の非公式日本語訳です
 
 * [数学系のためのLean勉強会](https://haruhisa-enomoto.github.io/lean-math-workshop/) 2023/09/03 に開催された，数学ユーザに向けたLean言語の勉強会．資料が公開されています
+
+* [Leanのインストール方法・elanとLakeの使い方](https://aconite-ac.github.io/how_to_install_lean/) Leanのインストール方法・elanとLakeの使い方をまとめた資料
