@@ -9,7 +9,7 @@ Leanは純粋関数型言語であり，数学の証明を表現する能力を�
 
 また，Leanの学習リソースの翻訳を順次ホスト・公開する予定です．
 
-## プロジェクト
+## リンク集
 
 * [Theorem Proving in Lean4 日本語訳](https://aconite-ac.github.io/theorem_proving_in_lean4_ja/) Leanのチュートリアルドキュメント「Theorem Proving in Lean 4」の非公式日本語訳です
 
