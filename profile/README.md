@@ -4,7 +4,7 @@ lean-jaは，Leanに関する情報の交換と集積を目的とした日本語
 
 Leanは純粋関数型言語であり，数学の証明を表現する能力を備えた定理証明支援系でもあります．[mathlib4](https://github.com/leanprover-community/mathlib4) というライブラリもあり，大学の学部程度の数学を Lean で行うことが可能です．
 
-![Leanで証明を書いているさま](./image/lean-playing.png)
+![Leanで証明を書いているさま](profile/image/lean-playing.png)
 
 [discussion](https://github.com/orgs/lean-ja/discussions)でLeanに関する情報を日本語でやり取りすることができます．
 質問やアイデア共有などにぜひお使いください．
