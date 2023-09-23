@@ -1,5 +1,4 @@
 title: "輪読会[書籍タイトルを記入]"
-labels: ["募集"]
 body:
   - type: markdown
     attributes:
