@@ -1,0 +1,15 @@
+title: "輪読会[書籍タイトルを記入]"
+label: "[アンケート]"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        以下の書籍の輪読会を検討しています。参加を希望される方は本投稿にリプライしてください。
+  - type: textarea
+    id: book_name
+    attributes:
+      label: 書籍名
+  - type: textarea
+    id: book_repository
+    attributes:
+      label: リポジトリのパス
